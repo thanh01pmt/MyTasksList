@@ -54,6 +54,10 @@
 		74088B9B2DF547B3007A0D63 /* MyTasksList */ = {
 			isa = PBXGroup;
 			children = (
+				74088BAF2DF54C83007A0D63 /* Mock Data */,
+				74088BAE2DF54C75007A0D63 /* Models */,
+				74088BAD2DF54C6A007A0D63 /* Components */,
+				74088BAC2DF54C5E007A0D63 /* Views */,
 				74088B9C2DF547B3007A0D63 /* MyTasksListApp.swift */,
 				74088B9E2DF547B3007A0D63 /* ContentView.swift */,
 				74088BA02DF547B5007A0D63 /* Assets.xcassets */,
@@ -68,6 +72,34 @@
 				74088BA32DF547B5007A0D63 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		74088BAC2DF54C5E007A0D63 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		74088BAD2DF54C6A007A0D63 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		74088BAE2DF54C75007A0D63 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		74088BAF2DF54C83007A0D63 /* Mock Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Mock Data";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
