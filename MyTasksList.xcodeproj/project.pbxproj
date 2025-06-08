@@ -37,6 +37,7 @@
 		74088B902DF547B3007A0D63 = {
 			isa = PBXGroup;
 			children = (
+				74088BAA2DF547EA007A0D63 /* README.md */,
 				74088B9B2DF547B3007A0D63 /* MyTasksList */,
 				74088B9A2DF547B3007A0D63 /* Products */,
 			);
@@ -57,7 +58,6 @@
 				74088B9E2DF547B3007A0D63 /* ContentView.swift */,
 				74088BA02DF547B5007A0D63 /* Assets.xcassets */,
 				74088BA22DF547B5007A0D63 /* Preview Content */,
-				74088BAA2DF547EA007A0D63 /* README.md */,
 			);
 			path = MyTasksList;
 			sourceTree = "<group>";
